@@ -11,7 +11,7 @@ For example.
 A left shift of 3 means:
 D -> A
 E -> B
-3 -> 0.
+3 -> 0
 
 A right shift of 5 means:
 G -> L
