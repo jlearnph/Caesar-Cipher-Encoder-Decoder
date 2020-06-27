@@ -26,3 +26,12 @@ This leaves any symbols such as periods, commas, exclamation marks untouched.
 3. Accept shift from user.
 4. Call user defined functions encrypt() or decrypt() according to user choice in step 1.
 5. Exit
+
+## Output:
+### Encrypt:
+
+ ![Encrypt](https://github.com/jlearnph/Caesar-Cipher-Encoder-Decoder/blob/master/encrypt.png)
+
+### Decrypt:
+
+ ![Decrypt](https://github.com/jlearnph/Caesar-Cipher-Encoder-Decoder/blob/master/decrypt.png)
