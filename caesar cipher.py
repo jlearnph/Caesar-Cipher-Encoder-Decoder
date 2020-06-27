@@ -33,14 +33,21 @@ def main ():
     Caesar cipher is one of the simplest and most widely known encryption techniques.
     It is a type of substitution cipher in which each letter in the plaintext is replaced 
     by a letter some fixed number of positions down the alphabet. 
-    
-    For example.
-    
-    A left shift of 3, D would be replaced by A, E would become B,
-    3 will become a 0. While a right shift of 5, G would become
 
-    1) Enter 1 to encode a message
-    2) Enter 2 to decode a message
+    For example.
+
+    A left shift of 3 means:
+    D -> A
+    E -> B
+    3 -> 0.
+
+    A right shift of 5 means:
+    G -> L
+    Z -> E
+    9 -> 4
+
+    *Enter 1 to encode a message
+    *Enter 2 to decode a message
     ''')
 
     while True:
