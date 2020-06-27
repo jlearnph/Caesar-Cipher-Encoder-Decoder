@@ -60,7 +60,7 @@ def main ():
             break
         elif choice == '2':
             string = input('Enter string that you want to decrypt: ')
-            ask = input('Do know the shift? [Y/N]: ')
+            ask = input('Do you know the shift? [Y/N]: ')
             if ask == 'Y' or ask == 'y':
                 steps = input('Shift: ')
                 decrypted = decrypter(string,steps)
